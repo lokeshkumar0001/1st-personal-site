@@ -1,0 +1,90 @@
+div {
+  padding-top: 50px
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 1.5rem;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.5rem;
+  position: relative;
+  top: 30px;
+  color: #66BFBF;
+}
+.my-profile{
+  height: 13%;
+  width: 13%;
+}
+
+  .volleyball-img{
+    height: 30%;
+    width: 30%;
+    float:right;
+    margin-left: 30px;
+
+  }
+.skill-row{
+  width: 60%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.web-img{
+  height: 30%;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+}
+h2{
+  color: #66BFBF;
+}
+
+.programmer{
+  font-family: 'Kiwi Maru', serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+.top-container {
+  background-color: #dbf6e9;
+  position: relative;
+}
+.skills{
+  padding-top: 0;
+}
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.footer-link{
+  color: #11999E;
+}
+hr{
+  border-style: dotted none none none;
+  border-width: 10px;
+  border-color: #bbbbbb;
+  margin: 60px 45%;
+}
